@@ -6,7 +6,7 @@ Here is a single  loop I tried to draw. The turtle did pretty well following it
 <br />
 <br />
 Here are a few random loops I drew and you can see the turtle gets lost many times but always finds its way back to one of the trained loops.
-![cream](https://github.com/BryceP-44/cream/blob/main/cream3.png)
+![cream](https://github.com/BryceP-44/cream/blob/main/cream4.png)
 
 <br />
 The ai only has 4 inputs and 4 outputs which is impressive it is able to actually work. 
