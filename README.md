@@ -1,8 +1,11 @@
 **Without using any path following algorithm and just using the output of blaze ai, the turtle is able to follow along a pre trained route after finding it by itself.**
 <br />
 <br />
+Here is a single  loop I tried to draw.
 ![cream](https://github.com/BryceP-44/cream/blob/main/cream2.png)
 <br />
+<br />
+Here are a few random loops I drew and you can see the turtle gets lost many times but always finds its way back to one of the trained loops.
 ![cream](https://github.com/BryceP-44/cream/blob/main/cream3.png)
 
 <br />
