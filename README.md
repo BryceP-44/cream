@@ -27,4 +27,3 @@ Right now, the 4 inputs are 2 position coordinates and 2 velocity coordinates. T
 chances are that the inferencing turtle will make a bigger and bigger oval. This is because when really far away, the turtle is doing it's best job to follow the human behavior. However, the human behavior is based on different conditions, i.e. a very different location corresponding to the same outputs the turtle is trying to replicate.
 <br />
 <br />
-![cream](https://github.com/BryceP-44/cream/blob/main/cream2.png)
