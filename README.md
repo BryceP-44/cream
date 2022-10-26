@@ -16,7 +16,6 @@ First, pip install keyboard if you don't have it. Then run the program. You get 
 The future purpose of blaze ai is to basically reduce the number of data points by clustering and then replacing tight clusters with singular points. 
 
 The blaze ai basically looks around at all the points and thinks "what would the human do in this scenario?" and then does literally the closest thing to
-
 what the human would do. 
 
 It is pretty inconsistent, but as a very first proof of concept I would say this is successful. It would benefit to search for closest points in a
