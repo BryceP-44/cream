@@ -3,6 +3,9 @@
 <br />
 ![cream](https://github.com/BryceP-44/cream/blob/main/cream2.png)
 <br />
+![cream](https://github.com/BryceP-44/cream/blob/main/cream3.png)
+
+<br />
 The ai only has 4 inputs and 4 outputs which is impressive it is able to actually work. 
 <br /><br />
 First, pip install keyboard if you don't have it. Then run the program. You get to jetpack around to make a path. Then, press "p" to stop and let blaze ai run. 
