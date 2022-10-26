@@ -1,4 +1,4 @@
-Without using any path following algorithm and just using the output of blaze ai, the turtle is able to follow along a pre trained route.
+Without using any path following algorithm and just using the output of blaze ai, the turtle is able to follow along a pre trained route after some time.
 <br />
 <br />
 ![cream](https://github.com/BryceP-44/cream/blob/main/cream2.png)
