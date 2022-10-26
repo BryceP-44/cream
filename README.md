@@ -22,6 +22,7 @@ It is sort of janky for sure, but as a very first proof of concept I would say t
 bounding box which would speed it up during  both the training and inferencing. Also, just like in differential equations, my turtle tends to overestimate
 the curves around big cricles. 
 This is in part due to dt being something like (.0001), but the biggest reasoning is because of the lack of input and output parameters.
+
 <br />
 Right now, the 4 inputs are 2 position coordinates and 2 velocity coordinates. The 4 outputs are the 4 arrow keys to control the turtle. If you train an oval,
 chances are that the inferencing turtle will make a bigger and bigger oval. This is because when really far away, the turtle is doing it's best job to follow the human behavior. However, the human behavior is based on different conditions, i.e. a very different location corresponding to the same outputs the turtle is trying to replicate.
